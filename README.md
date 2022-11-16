@@ -10,8 +10,8 @@
 > Blog Section
 
 - **STATUS**: `pending`
-- Content managed in headless mode
-- Source of data: Ghost
+- Content managed in `headless mode`
+- `Source` of data: [Ghost](https://ghost.org/)
 
 <br />
 
